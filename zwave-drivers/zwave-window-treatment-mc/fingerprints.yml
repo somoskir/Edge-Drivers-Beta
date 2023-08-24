@@ -75,3 +75,9 @@ zwaveManufacturer:
     productType: 0x2400
     productId: 0x1000
     deviceProfileName: window-treatment-power
+  - id: Simon/S100-Roller-Blind
+    deviceLabel: S100 Rocker iO for Roller Blind
+    manufacturerId: 0x0267
+    productType: 0x0004
+    productId: 0x0000
+    deviceProfileName: simon-roller-shutter    
